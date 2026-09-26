@@ -1,4 +1,4 @@
-PERSONAL TASKS MANAGER
+# PERSONAL TASKS MANAGER
 
 Project Code: WST21-PM-2026-SF
 
@@ -8,7 +8,7 @@ Course & Year: BSIT 2 / SECTION 5
 
 Database Used: SQLite
 
-FEATURES:
+ # FEATURES:
 - Add Task
 - View Tasks
 - Edit Task
