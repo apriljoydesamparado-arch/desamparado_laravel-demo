@@ -8,9 +8,9 @@ Course & Year: BSIT 2 / SECTION 5
 
 Database Used: SQLite
 
- # FEATURES:
+# FEATURES:
 - Add Task
-- View Tasks
+- View Tasks 
 - Edit Task
 - Delete Task
 - Update Status
